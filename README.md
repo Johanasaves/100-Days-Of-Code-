@@ -31,3 +31,11 @@ Today's Progress: I finished Basic CSS and started Applied Visual Design.
 Thoughts: CSS continued to be a challenge for me but I used my resources and figured it out. I will need to practice it some more. The Applied Visual Design was easier and I picked it up pretty quickly.I am still having fun learning.
 
 Link(s) to work:https://www.freecodecamp.org/johansaves
+
+01/25/2021- Day 4
+
+Today's Progress: I finished Basic CSS and started 90% done with Applied Visual Design.
+
+Thoughts: I am enjoying Applied Visual Design.I am still having fun learning.
+
+Link(s) to work:https://www.freecodecamp.org/johansaves
