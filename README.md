@@ -32,7 +32,7 @@ Thoughts: CSS continued to be a challenge for me but I used my resources and fig
 
 Link(s) to work:https://www.freecodecamp.org/johansaves
 
-01/25/2021- Day 4
+01/25/2021- Day 5
 
 Today's Progress: I finished Basic CSS and started 90% done with Applied Visual Design.
 
