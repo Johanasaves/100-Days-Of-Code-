@@ -39,3 +39,11 @@ Today's Progress: I finished Basic CSS and started 90% done with Applied Visual 
 Thoughts: I am enjoying Applied Visual Design.I am still having fun learning.
 
 Link(s) to work:https://www.freecodecamp.org/johansaves
+
+01/26/2021- Day 6
+
+Today's Progress: I finished Applied Visual Design and started Applied Accessibility.
+
+Thoughts: I am enjoying Applied Visual Design.I am still having fun learning. Applied Accessibility was a bit tough today but getting the hang of it.
+
+Link(s) to work:https://www.freecodecamp.org/johansaves
