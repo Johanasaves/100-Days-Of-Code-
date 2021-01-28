@@ -55,3 +55,12 @@ Today's Progress: None
 Thoughts: Had some personal things come up and did not code today.
 
 Link(s) to work: N/A
+
+01/28/2021- Day 8
+
+Today's Progress: Made it to CSS Grid.
+
+Thoughts: So far I am feeling good about what I am learning. I am understanding more and more everyday and learning what each code does.
+
+Link(s) to work:https://www.freecodecamp.org/johansaves
+
