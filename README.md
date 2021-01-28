@@ -47,3 +47,11 @@ Today's Progress: I finished Applied Visual Design and started Applied Accessibi
 Thoughts: I am enjoying Applied Visual Design.I am still having fun learning. Applied Accessibility was a bit tough today but getting the hang of it.
 
 Link(s) to work:https://www.freecodecamp.org/johansaves
+
+01/27/2021- Day 7
+
+Today's Progress: None
+
+Thoughts: Had some personal things come up and did not code today.
+
+Link(s) to work: N/A
